@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="test_1.MyTest-20180713172741" tests="2" time="0.039">
+	<testcase classname="test_1.MyTest" name="test_1" time="0.039"/>
+	<testcase classname="test_1.MyTest" name="test_b_run" time="0.000"/>
+	<system-out>
+<![CDATA[33333
+22222
+111
+22222
+111
+4444444
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="test_1.MyTest-20180713172642" tests="2" time="0.032">
+	<testcase classname="test_1.MyTest" name="test_1" time="0.032"/>
+	<testcase classname="test_1.MyTest" name="test_b_run" time="0.000"/>
+	<system-out>
+<![CDATA[33333
+22222
+{u'resDesc': u'\u8bf7\u6c42\u6210\u529f\uff01', u'data': {u'pid': u'5b08fe8f7f10089b208b47c9', u'sex': u'0', u'et': 1531282260, u'ct': 1527316088, u'city': u'\u5317\u4eac', u'con_channel': None, u'from': u'1', u'mt': 1531282260, u'from_biz': None, u'sick': None, u'con_time': 1527316056, u'auth': u'b06fa90a80d7df925ef9121ea3e10ac1', u'wx_sex': u'1', u'birth': u'1371225600', u'doctors': [u'5848e4db7f1008c9448b458c', u'56cd327c7f1008b9428b4745', u'583666e17f1008d86d8b47c8', u'573ae98d7f10087a048b4a61', u'5837ba317f10085b018b47a8', u'577e1e757f1008253f8b462e', u'56fe32d17f1008d85f8b45ee', u'571ee4f37f10084f7f8b4a85', u'5b35d19df47fb33e428b4578', u'5b29fc22f47fb3b32b8b45cb', u'56a86d317f1008ce068b45be', u'57be8f907f10085b4f8b46e5'], u'nickname': u'Hofer', u'icon': u'http://thirdwx.qlogo.cn/mmopen/hjic3BAsU2r6fHJibN02Ypynhm8afYyDaicSpUt5CnKb2D2CpYw2mI0gxyvMJF3tLKgo4BibfkBjK9cApcPyqNGRnjQHDZLxt0ibx/132', u'sub_status': u'1', u'unt': None, u'name': u'\u770b\u770b\u54af\u54e6', u'mobile': u'15811210028', u'cct': 1527316056, u'region': None, u'disease': None, u'frombiz': u'', u'channel_id': u'wx_anxinjiankang', u'wx_id': u'o79aixBGu8V6uCzBDVlbsNOeTsPA', u'unionid': u'ohfDIwZJHAPmBry9x6FQSpQyIOF4', u'_id': u'5b08fe587f100879738b494b', u'accountid': u'694325928930578432'}, u'resCode': 200}
+200
+111
+22222
+111
+4444444
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
